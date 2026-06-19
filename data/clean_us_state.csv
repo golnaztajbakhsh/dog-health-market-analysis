@@ -1,0 +1,49 @@
+state,state_code,population,pop_density,region,openness,data_science,artificial_intelligence,machine_learning,data_analysis,business_intelligence
+Alabama,AL,5024279,96,South,42.7,20,23,23,35,36
+Arizona,AZ,7151502,63,West,54.7,26,26,34,35,50
+Arkansas,AR,3011524,57,South,40.3,25,23,22,40,58
+California,CA,39538223,242,West,65,57,40,80,46,57
+Colorado,CO,5773714,55,West,57.9,37,26,41,35,64
+Connecticut,CT,3605944,650,Northeast,53.9,38,32,45,40,53
+Delaware,DE,989948,398,South,42.7,36,33,42,43,46
+Florida,FL,21538187,328,South,61,28,29,26,35,50
+Georgia,GA,10711908,180,South,56.9,34,29,38,38,59
+Idaho,ID,1839106,22,West,44.7,22,25,25,33,54
+Illinois,IL,12812508,221,Midwest,55.2,46,30,46,40,77
+Indiana,IN,6785528,186,Midwest,44.9,30,24,37,35,48
+Iowa,IA,3190369,57,Midwest,33.7,25,22,31,38,66
+Kansas,KS,2937880,36,Midwest,40.1,24,26,26,38,65
+Kentucky,KY,4505836,112,South,43,19,23,20,31,49
+Louisiana,LA,4657757,89,South,53.7,18,24,20,29,29
+Maine,ME,1362359,39,Northeast,50.8,20,23,19,30,34
+Maryland,MD,6177224,498,South,56.6,51,43,61,64,59
+Massachusetts,MA,7029917,666,Northeast,59.6,74,45,100,62,67
+Michigan,MI,10077331,104,Midwest,43.4,32,26,34,36,55
+Minnesota,MN,5706494,66,Midwest,38.5,35,25,35,33,82
+Mississippi,MS,2961279,61,South,46.2,20,27,20,33,27
+Missouri,MO,6154913,88,Midwest,45.7,26,24,28,31,56
+Montana,MT,1084225,7,West,55,22,18,20,29,34
+Nebraska,NE,1961504,25,Midwest,34.3,22,22,22,35,45
+Nevada,NV,3104614,28,West,61.3,19,26,23,27,33
+New Hampshire,NH,1377529,147,Northeast,48.7,30,27,40,38,47
+New Jersey,NJ,9288994,1065,Northeast,57.6,56,42,61,48,68
+New Mexico,NM,2117522,17,West,62,20,23,33,33,26
+New York,NY,20201249,370,Northeast,64.5,67,56,83,63,67
+North Carolina,NC,10439388,194,South,49.6,39,29,39,40,54
+North Dakota,ND,779094,11,Midwest,21.8,17,25,22,35,51
+Ohio,OH,11799448,263,Midwest,46,25,27,29,35,50
+Oklahoma,OK,3959353,57,South,42.2,22,21,20,29,41
+Oregon,OR,4237256,43,West,58.8,28,27,35,31,62
+Pennsylvania,PA,13002700,282,Northeast,49.6,37,31,47,38,53
+Rhode Island,RI,1097379,710,Northeast,59.4,44,33,48,45,47
+South Carolina,SC,5118425,160,South,55.3,19,25,20,32,43
+South Dakota,SD,886667,11,Midwest,41.9,24,20,19,31,45
+Tennessee,TN,6910840,164,South,50.1,22,21,23,28,52
+Texas,TX,29145505,109,South,52.7,37,30,42,40,68
+Utah,UT,3271616,39,West,47.7,30,26,35,38,54
+Vermont,VT,643077,67,Northeast,54.2,31,25,30,35,37
+Virginia,VA,8631393,202,South,57.1,55,44,68,56,81
+Washington,WA,7705281,108,West,56.6,51,33,73,41,100
+West Virginia,WV,1793716,74,South,36.8,17,20,19,30,24
+Wisconsin,WI,5893718,90,Midwest,35.7,24,22,24,29,59
+Wyoming,WY,576851,6,West,42.4,17,20,19,29,24
