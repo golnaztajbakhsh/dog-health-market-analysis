@@ -32,6 +32,6 @@ CREATE TABLE market.us_state (
 
 CREATE TABLE market.income (
     state VARCHAR(50),
-    personal_income_m NUMERIC(15,2),
-    per_capita_income NUMERIC(15,2)
+	per_capita_income NUMERIC(15,2),
+    personal_income_m NUMERIC(15,2)  
 );
